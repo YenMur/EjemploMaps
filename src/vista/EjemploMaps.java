@@ -33,6 +33,8 @@ public class EjemploMaps {
         
         mapEstudiante.put(20, new Estudiante("Ing multimedia", "23874", "Alejo","Alejo@uao.com","cra 287"));
         mapEstudiante.put(21, new Estudiante("Ing multimedia", "29843", "Maria","Maria@uao.com","cll 983"));
+        mapEstudiante.put(23, new Estudiante("Ing multimedia", "29843", "Maria","Maria@uao.com","cll 983"));
+
     }
     
 }
